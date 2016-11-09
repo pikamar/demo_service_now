@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Is link relative</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_79590_ref_app.relative</name>
+        <read_roles/>
+        <suffix>relative</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-11-09 09:42:34</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>2b9565e0db032200b59073ffbf96198e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_79590_ref_app.relative</sys_name>
+        <sys_package display_value="ref_app" source="x_79590_ref_app">e26b1920db032200b59073ffbf961983</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ref_app">e26b1920db032200b59073ffbf961983</sys_scope>
+        <sys_update_name>sys_properties_2b9565e0db032200b59073ffbf96198e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-11-09 09:42:34</sys_updated_on>
+        <type>string</type>
+        <value>false</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=2b9565e0db032200b59073ffbf96198e"/>
+</record_update>
